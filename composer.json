@@ -1,6 +1,6 @@
 {
   "name": "etolkacheva/test",
-  "description": "Lightweight Directory Access Protocol (LDAP)",
+  "description": "Test package",
   "type": "drupal-module",
   "license": "GPL-2.0+",
   "minimum-stability": "dev",
